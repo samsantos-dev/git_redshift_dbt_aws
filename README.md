@@ -1,0 +1,1 @@
+# git_redshift_dbt_aws
