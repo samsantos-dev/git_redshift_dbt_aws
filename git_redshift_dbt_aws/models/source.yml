@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: sources
+    database: lab_sam_teste_db ##banco no aws redshift
+    schema: public
+    tables:
+      - name: teste
